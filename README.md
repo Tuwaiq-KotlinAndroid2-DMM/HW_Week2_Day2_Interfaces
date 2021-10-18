@@ -29,13 +29,13 @@ class functions:
 - setType(String): Sets the type of the vehicle.
 - printStates(): Print the state of the vehicle either is moving or not.
 
-### Write a subclass named 'SportCar' which inherent from Vehicle class with following features:
+### Write a subclass named 'SportCar' which inherents from Vehicle class with following features:
 
 Class functions:
 - changeGear(int): Checks the engine if it started it will change the gear number to a number between 1 and 5 otherwise sets to zero.
 - speedUp(): Increments speed value by 20.
 
-### Write a subclass named 'Truck' which inherent from Vehicle class with following features:
+### Write a subclass named 'Truck' which inherents from Vehicle class with following features:
 
 Class functions:
 - changeGear(int): Checks the engine if it started it will change the gear number to a number between 1 and 10 otherwise sets to zero.
